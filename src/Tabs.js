@@ -48,37 +48,6 @@ class Tabs extends Component{
                       })
 
                     }
-                    {/* <div 
-                    className={this.state.toggleState===1?"content active-content":"content"}>
-                        <h1>Content 1 </h1>
-                        <p>Lorem ipsum dolor Lorem ipsum dolor
-                            Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor
-                        </p>
-                    </div>
-                    <div className={this.state.toggleState===2?"content active-content":"content"}>
-                        <h1>Content 2 </h1>
-                        <p>Lorem ipsum dolor Lorem ipsum dolor
-                            Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor
-                        </p>
-                    </div>
-                    <div className={this.state.toggleState===3?"content active-content":"content"}>
-                        <h1>Content 3 </h1>
-                        <p>Lorem ipsum dolor Lorem ipsum dolor
-                            Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor
-                        </p>
-                    </div>
-                    <div className={this.state.toggleState===4?"content active-content":"content"}>
-                        <h1>Content 4 </h1>
-                        <p>Lorem ipsum dolor Lorem ipsum dolor
-                            Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor
-                        </p>
-                    </div>
-                    <div className={this.state.toggleState===5?"content active-content":"content"}>
-                        <h1>Content 5 </h1>
-                        <p>Lorem ipsum dolor Lorem ipsum dolor
-                            Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor
-                        </p>
-                    </div> */}
                 </div>
             </div>
            
